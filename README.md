@@ -1,4 +1,4 @@
-# RoadMate Victoria Demo — Web App
+# myVicRoad Demo — Web App
 
 ## What this is
 A static, mobile-friendly Progressive Web App (PWA) using fictional demo data. It is independent and not affiliated with VicRoads or the Victorian Government.
